@@ -1,2 +1,2 @@
-# shapemidwest.github.io
+# Shape Midwest 2019
 Website for the event
